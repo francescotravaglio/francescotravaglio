@@ -1,48 +1,65 @@
 <div align="center">
 
-# 👋 Ciao a tutti!
+# 👨‍💻 Francesco Travaglio
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Python+Developer;Cybersecurity+Student+(LM-66);Working+at+Newfador+srl;Passionate+about+Ethical+Hacking" alt="Typing SVG" />
 
-Sono io! Uno sviluppatore appassionato, desideroso di creare, imparare e interagire.
+---
 
-## Welcome to my profile
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cybersecurity-red?style=flat-square&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-E94814?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
+---
+
+</div>
+
+### 🔭 Background & Attività
+- 🏢 **Lavoro:** Software Developer presso **Newfador srl**.
+- 🎓 **Studio:** Laurea Magistrale in **Sicurezza Informatica (LM-66)**.
+- 🐍 **Focus:** Sviluppo di tool in Python e analisi delle vulnerabilità.
+- ⚡ **Fun Fact:** Passo più tempo a leggere log di sicurezza che a dormire.
+
+---
+
+### 📊 GitHub Activity
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=francescotravaglio&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescotravaglio&layout=compact&theme=tokyonight&hide_border=true" width="41%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=francescotravaglio&theme=tokyonight&hide_border=true" width="90%" />
 </div>
 
 ---
 
-### 🚀 Stack tecnologico
-
-<!-- Badge Python -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-<!-- Ho aggiunto alcuni badge correlati che solitamente si usano con Python e Sicurezza, puoi rimuoverli se non ti servono -->
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### 🛡️ Cybersecurity & Tech Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,bash,linux,docker,git,mysql,regex,kali,ps" />
+  </a>
+</p>
 
 ---
 
-### 📊 Statistiche GitHub
-
+### 🐍 Contribution Snake
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=francescotravaglio&show_icons=true&theme=tokyonight&count_private=true" alt="Statistiche di Francesco" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescotravaglio&layout=compact&theme=tokyonight" alt="Linguaggi più usati" />
+  <img src="https://raw.githubusercontent.com/francescotravaglio/francescotravaglio/output/github-contribution-grid-snake.svg" alt="snake" />
+  <p><i>L'animazione mostra l'andamento dei miei contributi sul codice</i></p>
 </div>
 
 ---
 
-### 🧠 Chi sono
-
-* 🎓 Attualmente studio **Sicurezza Informatica (LM66)**
-* 💼 Lavoro presso **Newfador srl**
-* 🐍 Il mio linguaggio principale è **Python**
-* 🌱 Mi impegno costantemente per approfondire le mie competenze nel campo della cybersecurity
-* 🤝 Disponibile per collaborazioni e scambio di idee su progetti innovativi
-
----
-
 <div align="center">
-  <p>Sviluppato con ❤️ da Francesco Travaglio</p>
+  <a href="mailto:IL_TUO_EMAIL@esempio.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/francesco-travaglio-347324185">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
