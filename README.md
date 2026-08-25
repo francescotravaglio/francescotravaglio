@@ -18,7 +18,8 @@
 
 - 🤖 **Vibe AI Developer** — costruisco software affiancato dall'intelligenza artificiale, dal prototipo alla produzione.
 - 🏢 **Software Developer** presso **Newfador srl**.
-- 🎓 Laurea Magistrale in **Sicurezza Informatica (LM-66)**.
+- 🎓 Laurea Magistrale **LM66 - Sicurezza Informatica**, Università Mercatorum *(in corso)*.
+- 🎓 Master di II livello in **Intelligenza Artificiale, Tecnologia e Diritto**, Università Niccolò Cusano *(in corso)*.
 - 🏭 Appassionato di **Automazione Industriale 4.0**: dal PLC al cloud, dal chiostro alla smart factory.
 - ⚜️ **Capo Scout** — servizio, responsabilità e guida, dentro e fuori dal codice.
 - 🌐 Sito web: **[francescotravaglio.it](https://francescotravaglio.it)**
@@ -59,6 +60,36 @@
 <img src="https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/Ollama-1a1a1a?style=flat-square&logo=ollama&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/Prompt_Engineering-FF9800?style=flat-square&logo=probot&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🏆 Certificazioni
+
+<table width="100%">
+<tr>
+<td align="center" width="33%">
+
+🎓 <img src="https://img.shields.io/badge/Harvard_University-A51C30?style=for-the-badge&logoColor=white" /><br/><br/>
+<b>Data Science: Building Machine Learning Models</b><br/>
+<sub>Rilasciato: Gennaio 2026</sub>
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" /><br/><br/>
+<b>Google Prompting Essentials</b><br/>
+<sub>Rilasciato: Dicembre 2025</sub>
+
+</td>
+<td align="center" width="33%">
+
+🚀 <img src="https://img.shields.io/badge/Aulab-FFC107?style=for-the-badge&logoColor=1a1a1a" /><br/><br/>
+<b>Vibe AI Developer</b><br/>
+<sub>Rilasciato: Aprile 2026</sub>
 
 </td>
 </tr>
