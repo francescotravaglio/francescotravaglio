@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC107,100:FF9800&height=200&section=header&text=Francesco%20Travaglio&fontSize=42&fontColor=1a1a1a&animation=fadeIn&fontAlignY=35&desc=Vibe%20AI%20Developer%20%7C%20Cybersecurity%20%7C%20Industry%204.0&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC107,100:FF9800&height=200&section=header&text=Francesco%20Travaglio&fontSize=42&fontColor=1a1a1a&animation=twinkling&fontAlignY=35&desc=Vibe%20AI%20Developer%20%7C%20Cybersecurity%20%7C%20Industry%204.0&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=FF9800&center=true&vCenter=true&width=650&lines=Vibe+AI+Developer+%40+Newfador+srl;Cybersecurity+Student+(LM-66);Automazione+Industriale+4.0;Powered+by+Claude+%2B+Codex+%2B+Ollama;Capo+Scout+-+Estote+Parati" alt="Typing SVG" />
 
@@ -26,7 +26,27 @@
 
 <br/>
 
+<div align="center">
+<table>
+<tr><td>
+
+🔴 🟡 🟢 &nbsp;<sub><b>francesco@dev</b>: ~</sub>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=500&color=00FF9C&background=0D1117&center=false&vCenter=true&multiline=true&width=600&height=140&lines=%24+whoami;francesco.travaglio+-+vibe+ai+developer;%24+cat+ruolo.txt;Cybersecurity+%2B+Industry+4.0+%2B+AI+Engineering;%24+ollama+run+claude+--codex;Building+the+future%2C+one+prompt+at+a+time..." alt="Terminal" />
+
+</td></tr>
+</table>
+</div>
+
+<br/>
+
 ## 🧠 Competenze
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=600&color=FF9800&center=true&vCenter=true&width=550&lines=Cybersecurity+First;Automazione+Industriale+4.0;AI-Augmented+Development" alt="Typing SVG" />
+</div>
+
+<br/>
 
 <table width="100%">
 <tr>
@@ -95,7 +115,7 @@
 </tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=FFC107&height=60&section=header" width="100%"/>
 
 ## 📊 GitHub Activity
 
