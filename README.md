@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC107,100:FF9800&height=200&section=header&text=Francesco%20Travaglio&fontSize=42&fontColor=1a1a1a&animation=twinkling&fontAlignY=35&desc=Vibe%20AI%20Developer%20%7C%20Cybersecurity%20%7C%20Industry%204.0&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=FF9800&center=true&vCenter=true&width=650&lines=Vibe+AI+Developer+%40+Newfador+srl;Cybersecurity+Student+(LM-66);Automazione+Industriale+4.0;Powered+by+Claude+%2B+Codex+%2B+Ollama;Capo+Scout+-+Estote+Parati" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=FF9800&center=true&vCenter=true&width=650&lines=Vibe+AI+Developer+%40+Newfador+srl;Cybersecurity+Student+(LM-66);Industry+4.0+Automation;Powered+by+Claude+%2B+Codex+%2B+Ollama;Scout+Leader+-+Estote+Parati" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://francescotravaglio.it"><img src="https://img.shields.io/badge/🌐_Sito_Web-francescotravaglio.it-FFC107?style=for-the-badge&logoColor=1a1a1a" /></a>
+<a href="https://francescotravaglio.it"><img src="https://img.shields.io/badge/🌐_Website-francescotravaglio.it-FFC107?style=for-the-badge&logoColor=1a1a1a" /></a>
 <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/francescotravaglio&label=GitHub%20since&query=$.created_at&style=for-the-badge&color=FF9800&logo=github" />
 <img src="https://komarev.com/ghpvc/?username=francescotravaglio&label=Profile%20Views&color=FF9800&style=for-the-badge" alt="visitor badge" />
 
@@ -14,15 +14,16 @@
 
 <br/>
 
-## 🚀 Chi sono
+## 🚀 About Me
 
-- 🤖 **Vibe AI Developer** — costruisco software affiancato dall'intelligenza artificiale, dal prototipo alla produzione.
-- 🏢 **Software Developer** presso **Newfador srl**.
-- 🎓 Laurea Magistrale **LM66 - Sicurezza Informatica**, Università Mercatorum *(in corso)*.
-- 🎓 Master di II livello in **Intelligenza Artificiale, Tecnologia e Diritto**, Università Niccolò Cusano *(in corso)*.
-- 🏭 Appassionato di **Automazione Industriale 4.0**: dal PLC al cloud, dal chiostro alla smart factory.
-- ⚜️ **Capo Scout** — servizio, responsabilità e guida, dentro e fuori dal codice.
-- 🌐 Sito web: **[francescotravaglio.it](https://francescotravaglio.it)**
+- 🤖 **Vibe AI Developer** — building software alongside artificial intelligence, from prototype to production.
+- 🏢 **Software Developer** at **Newfador srl**.
+- 🎓 Master's Degree **LM66 - Cybersecurity**, Mercatorum University *(ongoing)*.
+- 🎓 2nd Level Master in **Artificial Intelligence, Technology and Law**, Niccolò Cusano University *(ongoing)*.
+- 🏭 Passionate about **Industry 4.0 Automation**: from PLC to cloud, from the shop floor to the smart factory.
+- ⚜️ **Scout Leader** — service, responsibility and guidance, in life and in code.
+- 🌐 Website: **[francescotravaglio.it](https://francescotravaglio.it)**
+- 🗣️ Languages: 🇮🇹 **Italian** (native) · 🇬🇧 **English**
 
 <br/>
 
@@ -32,7 +33,7 @@
 
 🔴 🟡 🟢 &nbsp;<sub><b>francesco@dev</b>: ~</sub>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=500&color=00FF9C&background=0D1117&center=false&vCenter=true&multiline=true&width=600&height=140&lines=%24+whoami;francesco.travaglio+-+vibe+ai+developer;%24+cat+ruolo.txt;Cybersecurity+%2B+Industry+4.0+%2B+AI+Engineering;%24+ollama+run+claude+--codex;Building+the+future%2C+one+prompt+at+a+time..." alt="Terminal" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=500&color=00FF9C&background=0D1117&center=false&vCenter=true&multiline=true&width=600&height=140&lines=%24+whoami;francesco.travaglio+-+vibe+ai+developer;%24+cat+role.txt;Cybersecurity+%2B+Industry+4.0+%2B+AI+Engineering;%24+ollama+run+claude+--codex;Building+the+future%2C+one+prompt+at+a+time..." alt="Terminal" />
 
 </td></tr>
 </table>
@@ -40,10 +41,10 @@
 
 <br/>
 
-## 🧠 Competenze
+## 🧠 Skills
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=600&color=FF9800&center=true&vCenter=true&width=550&lines=Cybersecurity+First;Automazione+Industriale+4.0;AI-Augmented+Development" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=600&color=FF9800&center=true&vCenter=true&width=550&lines=Cybersecurity+First;Industry+4.0+Automation;AI-Augmented+Development" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -63,7 +64,7 @@
 </td>
 <td width="33%" valign="top" align="center">
 
-### 🏭 Automazione Industriale 4.0
+### 🏭 Industry 4.0 Automation
 
 <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,py,git,docker" /><br/><br/>
 
@@ -87,7 +88,7 @@
 
 <br/>
 
-## 🏆 Certificazioni
+## 🏆 Certifications
 
 <table width="100%">
 <tr>
@@ -95,21 +96,21 @@
 
 🎓 <img src="https://img.shields.io/badge/Harvard_University-A51C30?style=for-the-badge&logoColor=white" /><br/><br/>
 <b>Data Science: Building Machine Learning Models</b><br/>
-<sub>Rilasciato: Gennaio 2026</sub>
+<sub>Issued: January 2026</sub>
 
 </td>
 <td align="center" width="33%">
 
 <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" /><br/><br/>
 <b>Google Prompting Essentials</b><br/>
-<sub>Rilasciato: Dicembre 2025</sub>
+<sub>Issued: December 2025</sub>
 
 </td>
 <td align="center" width="33%">
 
 🚀 <img src="https://img.shields.io/badge/Aulab-FFC107?style=for-the-badge&logoColor=1a1a1a" /><br/><br/>
 <b>Vibe AI Developer</b><br/>
-<sub>Rilasciato: Aprile 2026</sub>
+<sub>Issued: April 2026</sub>
 
 </td>
 </tr>
@@ -146,7 +147,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/francescotravaglio/francescotravaglio/output/github-contribution-grid-snake.svg" />
     <img alt="snake" src="https://raw.githubusercontent.com/francescotravaglio/francescotravaglio/output/github-contribution-grid-snake.svg" />
   </picture>
-  <p><i>Estote Parati - Sempre pronti, anche nel debug.</i></p>
+  <p><i>Estote Parati - Always ready, even when debugging.</i></p>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9800,100:FFC107&height=100&section=footer" width="100%"/>
