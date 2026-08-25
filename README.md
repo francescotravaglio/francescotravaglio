@@ -16,6 +16,8 @@
 
 ## 🚀 About Me
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=700&color=FFC107&center=true&vCenter=true&width=600&lines=Turning+ideas+into+secure%2C+automated%2C+AI-powered+systems;From+prototype+to+production%2C+with+AI+by+my+side;Cybersecurity+mindset+%2B+Industry+4.0+hands-on" alt="Typing SVG" />
+
 - 🤖 **Vibe AI Developer** — building software alongside artificial intelligence, from prototype to production.
 - 🏢 **Software Developer** at **Newfador srl**.
 - 🎓 Master's Degree **LM66 - Cybersecurity**, Mercatorum University *(ongoing)*.
@@ -23,7 +25,19 @@
 - 🏭 Passionate about **Industry 4.0 Automation**: from PLC to cloud, from the shop floor to the smart factory.
 - ⚜️ **Scout Leader** — service, responsibility and guidance, in life and in code.
 - 🌐 Website: **[francescotravaglio.it](https://francescotravaglio.it)**
-- 🗣️ Languages: 🇮🇹 **Italian** (native) · 🇬🇧 **English**
+
+<br/>
+
+<div align="center">
+
+**🗣️ Languages**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2200&pause=600&color=FF9800&center=true&vCenter=true&width=500&lines=%F0%9F%87%AE%F0%9F%87%B9+Italian+-+Native+speaker;%F0%9F%87%AC%F0%9F%87%A7+English+-+Fluent+%2F+Professional" alt="Languages Typing SVG" /><br/>
+
+<img src="https://img.shields.io/badge/Italiano-🇮🇹_Native-FFC107?style=for-the-badge&logoColor=1a1a1a" />
+<img src="https://img.shields.io/badge/English-🇬🇧_Fluent-FF9800?style=for-the-badge&logoColor=white" />
+
+</div>
 
 <br/>
 
